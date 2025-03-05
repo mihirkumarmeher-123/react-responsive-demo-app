@@ -1,5 +1,5 @@
 import React from "react";
-import Laptop from "../assets/Laptop.jpg";
+import Laptop from "../assets/laptop.jpg";
 
 function Analytics() {
   return (
